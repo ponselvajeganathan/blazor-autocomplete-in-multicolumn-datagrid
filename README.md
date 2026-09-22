@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to display AutoComplete search results in a multi-column layout using Syncfusion Blazor components. Instead of showing suggestions in a traditional single-text list, the sample presents matching records with multiple fields arranged in a structured format, making it easier for users to identify and select the desired record. This approach is useful for scenarios where a single display field does not provide enough context and additional information must be shown alongside search results.
+This sample demonstrates how to display [AutoComplete](https://www.syncfusion.com/blazor-components/blazor-autocomplete) search results in a multi-column layout using Syncfusion Blazor components. Instead of showing suggestions in a traditional single-text list, the sample presents matching records with multiple fields arranged in a structured format, making it easier for users to identify and select the desired record. This approach is useful for scenarios where a single display field does not provide enough context and additional information must be shown alongside search results.
 
 ## Key Features
 
@@ -45,8 +45,8 @@ dotnet run
 
 ## Project Structure
 
-- `Client/Pages/Index.razor` — contains the AutoComplete sample implementation, search configuration, and multi-column result rendering logic. [VERIFY: exact implementation details]
-
+- `Client/Pages/Index.razor` — contains the AutoComplete sample implementation, search configuration, and multi-column result rendering logic.
+- 
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
